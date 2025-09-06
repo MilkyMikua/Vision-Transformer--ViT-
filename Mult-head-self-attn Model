@@ -1,46 +1,4 @@
-{
-  "cells": [
-    {
-      "cell_type": "markdown",
-      "metadata": {
-        "id": "UKc8K9_57UEz"
-      },
-      "source": [
-        "# CS229-EE242 - Spring 2025 - Homework 1\n",
-        "\n",
-        "# Due: Friday, April 25, 2025 @ 11:59pm\n",
-        "\n",
-        "### Maximum points: 50 pts\n",
-        "\n",
-        "\n",
-        "## Submit your solution to elearn:\n",
-        "1. Submit a single PDF to **HW1**\n",
-        "2. Submit your jupyter notebook to **HW1-code**\n",
-        "\n",
-        "**Both code and pdf need to show code outputs. See the additional submission instructions at the end of this notebook**"
-      ]
-    },
-    {
-      "cell_type": "markdown",
-      "metadata": {
-        "id": "JL5tIX4c9z6s"
-      },
-      "source": [
-        "\n",
-        "## Enter your information below:\n",
-        "\n",
-        "### Your Name (Yurui Huang):\n",
-        "\n",
-        "### Your student ID (yhuan406):\n",
-        "    \n",
-        "    \n",
-        "<b>By submitting this notebook, I assert that the work below is my own work, completed for this course.  Except where explicitly cited, none of the portions of this notebook are duplicated from anyone else's work or my own previous work.</b>\n",
-        "\n",
-        "\n",
-        "## Academic Integrity\n",
-        "Each assignment should be done  individually. You may discuss general approaches with other students in the class, and ask questions to the TAs, but  you must only submit work that is yours . If you receive help by any external sources (other than the TA and the instructor), you must properly credit those sources, and if the help is significant, the appropriate grade reduction will be applied. If you fail to do so, the instructor and the TAs are obligated to take the appropriate actions outlined at http://conduct.ucr.edu/policies/academicintegrity.html . Please read carefully the UCR academic integrity policies included in the link.\n"
-      ]
-    },
+
     {
       "cell_type": "markdown",
       "metadata": {
